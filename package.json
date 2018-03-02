@@ -1,0 +1,19 @@
+{
+  "name": "validate-ssn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bedly/validate-ssn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bedly/validate-ssn/issues"
+  },
+  "homepage": "https://github.com/Bedly/validate-ssn#readme"
+}
